@@ -1,5 +1,7 @@
 # Paint — playtest builds
 
+This is still in a VERY early stage. so please be as kind and constructive as possiable.
+
 Thanks for testing! This is an early build of **Paint** (working title *BingBong*), a cozy-but-punchy
 survivor roguelite in the style of Megabonk. You run, slide and jump around Goldvale while your
 weapons fire automatically, pick up XP, open chests and take on the boss.
