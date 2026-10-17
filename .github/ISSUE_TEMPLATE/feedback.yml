@@ -1,0 +1,43 @@
+name: 💡 Feedback / idea
+description: How the game felt, balance, and ideas.
+title: "[Feedback] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: Bottom-right corner of the main menu (for example v0.1.102).
+      placeholder: v0.1.102
+  - type: dropdown
+    id: area
+    attributes:
+      label: What is it about?
+      multiple: true
+      options:
+        - Movement / camera
+        - Weapons and skills
+        - Items and chests
+        - Enemies and boss
+        - Difficulty / balance
+        - World / map
+        - Menus / HUD
+        - Sound / music
+        - Something else
+  - type: textarea
+    id: liked
+    attributes:
+      label: What felt good?
+  - type: textarea
+    id: disliked
+    attributes:
+      label: What felt bad, boring, confusing or unfair?
+  - type: textarea
+    id: idea
+    attributes:
+      label: Ideas or wishes
+  - type: textarea
+    id: run
+    attributes:
+      label: How did your run go?
+      description: How long did you last, how did it end, what build did you go for?

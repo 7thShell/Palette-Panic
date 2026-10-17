@@ -1,0 +1,52 @@
+name: 🐞 Bug report
+description: Something broke, looked wrong or got stuck.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: Bottom-right corner of the main menu (for example v0.1.102).
+      placeholder: v0.1.102
+    validations:
+      required: true
+  - type: dropdown
+    id: hero
+    attributes:
+      label: Hero
+      options:
+        - Mussemor
+        - Aldric
+        - Not in a run (menus)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+      description: What were you doing just before? Which weapons/items did you have?
+      placeholder: |
+        1. Started a run with Aldric
+        2. Opened a chest near the boss gate
+        3. ...
+  - type: dropdown
+    id: often
+    attributes:
+      label: How often?
+      options:
+        - Every time
+        - Sometimes
+        - Only once
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or video
+      description: Drag images or clips in here.
