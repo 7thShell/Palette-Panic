@@ -1,20 +1,9 @@
-# Palette Panic — playtest builds
+# Palette Panic
 
-This is still in a VERY early stage. so please be as kind and constructive as possiable.
+A cozy-but-punchy survivor roguelite. Run, slide and jump around Goldvale while your weapons fire
+automatically, pick up XP, open chests and take on the boss.
 
-Thanks for testing! This is an early build of **Palette Panic**, a cozy-but-punchy
-survivor roguelite in the style of Megabonk. You run, slide and jump around Goldvale while your
-weapons fire automatically, pick up XP, open chests and take on the boss.
-
-## Download and play (Windows)
-
-1. Open **[Releases](../../releases/latest)** and download the `.zip` under *Assets*.
-2. Right-click the zip → **Extract All…** (don't run it from inside the zip).
-3. Open the extracted folder and run **`PalettePanic.exe`** (builds before v0.1.413: `BingBong.exe`).
-4. If Windows SmartScreen says *"Windows protected your PC"*, click **More info → Run anyway**
-   (the game isn't code-signed yet).
-
-The version number is shown in the bottom-right corner of the main menu.
+The game is still at a very early stage, so please be kind and constructive.
 
 ## Controls
 
@@ -28,14 +17,14 @@ The version number is shown in the bottom-right corner of the main menu.
 | Interact (pots, chests, shrines, merchant) | E | X |
 | Pause / settings | Esc | Start |
 
-## Found a bug or have feedback?
+## Bugs and ideas
 
-Please open an **[Issue](../../issues/new/choose)**, and pick one of the forms:
+The quickest way: press **Esc** in the game and click **SEND FEEDBACK**. Write what happened and press
+**SEND**. A picture of the game and the details of your run go straight to the developer.
 
-- **🐞 Bug report** — something broke, looked wrong, or got stuck.
-- **💡 Feedback / idea** — what felt fun, boring, too hard, too easy, or what you'd love to see.
+You can also open an **[Issue](../../issues/new/choose)**:
 
-Screenshots and short clips help a lot (Win + Shift + S for a screenshot, Win + G for a clip),
-and so does the version number from the main menu.
+- **🐞 Bug report**: something broke, looked wrong, or got stuck.
+- **💡 Feedback / idea**: what felt fun, boring, too hard or too easy, or what you'd love to see.
 
-One issue per problem, please. That makes it easy to track what's been fixed.
+Please add the version number (bottom right of the main menu) and one issue per problem.
