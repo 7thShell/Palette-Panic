@@ -1,8 +1,8 @@
-# Paint — playtest builds
+# Palette Panic — playtest builds
 
 This is still in a VERY early stage. so please be as kind and constructive as possiable.
 
-Thanks for testing! This is an early build of **Paint** (working title *BingBong*), a cozy-but-punchy
+Thanks for testing! This is an early build of **Palette Panic**, a cozy-but-punchy
 survivor roguelite in the style of Megabonk. You run, slide and jump around Goldvale while your
 weapons fire automatically, pick up XP, open chests and take on the boss.
 
@@ -10,7 +10,7 @@ weapons fire automatically, pick up XP, open chests and take on the boss.
 
 1. Open **[Releases](../../releases/latest)** and download the `.zip` under *Assets*.
 2. Right-click the zip → **Extract All…** (don't run it from inside the zip).
-3. Open the extracted folder and run **`BingBong.exe`**.
+3. Open the extracted folder and run **`PalettePanic.exe`** (builds before v0.1.413: `BingBong.exe`).
 4. If Windows SmartScreen says *"Windows protected your PC"*, click **More info → Run anyway**
    (the game isn't code-signed yet).
 
